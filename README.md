@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/header.png" alt="header"/>
+  <img src="/assets/cover.png" alt="cover"/>
 </div>
 
 ## About
@@ -146,7 +146,7 @@ This API supports partial updates. For example, to update only the `bikeMake`, `
     ```sh
     git clone https://github.com/srajankumar/bike-service-company.git
     cd bike-service-company
-    cd backend
+    cd api
     ```
 2.  Configure `application.properties`.
 3.  Install dependencies & build:
@@ -161,9 +161,3 @@ This API supports partial updates. For example, to update only the `bikeMake`, `
     ```sh
     http://localhost:8080/swagger-ui/index.html
     ```
-
-## Mockup
-
-<div align="center">
-  <img src="/assets/mockup.png" alt="mockup"/>
-</div>
